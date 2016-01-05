@@ -1,7 +1,7 @@
 # Mac-Hebrew-Standard-1452-2012-Keyboard
 An implementation of the standard Hebrew keyboard for Mac OSX.
 
-‫ז‫והי מקלדת עברית בשביל מחשבי מק, שבנויה לפי תקן 1452 מגרסה 2012, שמשמשת גם בחלונות 8 ובהפצות שונות של גנו/לינוקס. בשבי‫ל להתקין, יש להעתיק את הקובץ לתיקייה ~/Library/Keyboard Layouts ואחרי־כן לבחור את מקלדת „עברית תקנית 2012” בהעדפות מקלדת.
+‫ז‫והי מקלדת עברית בשביל מחשבי מק, שבנויה לפי תקן 1452 מגרסה 2012, שמשמשת גם בחלונות 8 ובהפצות שונות של גנו/לינוקס. בשבי‫ל להתקין, יש להעתיק את הקובץ לתיקייה‪ ~/Library/Keyboard Layouts ואחרי־כן לבחור את מקל‬דת „עברית תקנית 2012” בהעדפות מקלדת.
 
 This implements a Hebrew keyboard for Mac OSX according to the 2012 version of the SI 1452 standard, the same one on which the default Hebrew keyboard in Microsoft Windows 8 and desktop GNU/Linux distributions are based.
 
